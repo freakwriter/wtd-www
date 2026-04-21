@@ -118,7 +118,7 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 
 ## Project List
 
-If you are planning to contribute, review the project list before the conference.
+If you are planning to contribute, review the project list before the conference. We're still adding projects as they're submitted, so check back here as the conference draws closer.
 
 ### Docs as Tests and Doc Detective: Let's Get Your Docs Tested!
 
