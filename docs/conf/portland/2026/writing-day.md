@@ -156,15 +156,6 @@ Here's what we'll do: bring your docs site URL, run an AI readiness audit, and r
 
 If you want to go deeper into what happens *after* AI finds your docs--whether the content itself is accurate, fresh, and complete--I'll be covering that in my [Tuesday talk](https://www.writethedocs.org/conf/portland/2026/speakers/#speaker-rakesh-pasupuleti-what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti).
 
-### Help improve the WTD Salary Survey
-
-* Project organizer: Kay Smoljak, she/her
-* Project session: Afternoon
-
-The [Write the Docs Salary Survey](https://writethedocs.org/surveys/) has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations.
-
-Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the [questions, instructions, and general flow of the survey](https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey).
-
 ### Examples of projects you might see at the conference
 
 We always accept day-of project submissions, too, so you may see projects like any of these:
