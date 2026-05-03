@@ -188,7 +188,7 @@ Join this project to set up Do11y on your own docs site, create a free Axiom acc
 
 "Want to leave Portland with a real contribution to a big name open-source project? Come work through pre-vetted documentation issues from projects that actually need the help. I've coordinated in advance with maintainers from Mautic, Vitess, and Helm (with more pending) to label ""good first issue"" docs tasks: information architecture, confusing instructions, fuzzy contributor guides, missing pages.
 
-I started contributing to open-source 15 years ago and I now run a 19k star project in my free time, but at the beginning, it felt intimidating contributing to a project where I expected everyone would be far more experienced and knowledgable than me. So even if it'll be your first OSS PR, you'll have someone there to explain things, answer questions, and unblock you if a repo gets weird.
+I started contributing to open-source 15 years ago and I now run a 19k star project in my free time, but at the beginning, it felt intimidating contributing to a project where I expected everyone would be far more experienced and knowledgeable than me. So even if it'll be your first OSS PR, you'll have someone there to explain things, answer questions, and unblock you if a repo gets weird.
 
 To get the most out of the session, you should already roughly know what a pull request is, have encountered docs-as-code before. Our table can help with getting a documentation site running locally so you can preview your changes. If you are totally new to GitHub, no fear! Go to a New to Git and GitHub session and then join us after.
 
